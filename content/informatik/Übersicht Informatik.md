@@ -14,3 +14,7 @@
  - [[Sortieralgorithmen]]
  - [[Lineare Datenstrukturen]]
 
+## Automatentheorie
+#### Grammatiken 
+- [[Reguläre Grammatik]]
+- [[Kontextfreie Grammatiken]]

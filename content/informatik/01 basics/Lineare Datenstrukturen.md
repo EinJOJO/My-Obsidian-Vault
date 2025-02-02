@@ -6,8 +6,6 @@ spezielle Begriffe:
   - LIFO
   - Trennung von Struktur und Inhalt
 Ready to learn: true
-Last edited by: "EinJojo "
-Last edited time: Invalid date
 ---
 # Lineare Datenstrukturen
 Lineare Datenstrukturen
@@ -21,14 +19,13 @@ Darstellung in Klassendiagram
 ## a. Allgemein Informationen:
 - ==**Generisch**==  
     → Beliebig viele Objekte können gespeichert werden (ContentType)  
-    
+
 - Trennung von Struktur und Inhalt über ==**Knoten**== (node)
-- Haben eine ==**Dynamische Größe**==**  
-    →  
-    **sind nicht wie ein Array, was **==statisch==** ist, in der Länge begrenzt
+- Haben eine ==**Dynamische Größe**== 
+    →  sind nicht wie ein Array, was ==statisch== und in der Länge begrenzt ist
 
 > [!important]  
-> In der Klausur immer angeben, wenn es ums erläutern geht.  
+> In der Klausur immer angeben, wenn es um das Erläutern geht.  
   
 ---
   
@@ -60,12 +57,18 @@ an die Stelle des current-Zeigers (
   
   
 ## 4. Unterschied Array vs lineare Datenstruktur:
-||Array|Queue / Stack / List|
+|Array|Queue / Stack / List|
 |---|---|---|
 |Datenstruktur|statisch|dynamisch|
 |Zugriff|Direkter Zugriff über die Felder mit entsprechendem Index  <br>  <br>`array[0]`, `array[1]`,…|Queue und Stack:  <br>  <br>Nur auf das erste Element  <br>  <br>Liste:  <br>Auf jedes Element mit dem  <br>`current` Zeiger|
   
 
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: false
+tags: []
+---
+ 
 > Basierend auf dem Erwartungshorizont der TM Q1.1 LK. 2023 Klausur.
   
 ## Darstellung in Klassendiagram  

@@ -61,7 +61,7 @@ Nutzer `n:m` Gruppenchats
   
   
   
-![[1000001318.jpg]]
+![[public/assets/1000001318.jpg]]
   
 ---
   
